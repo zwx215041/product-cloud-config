@@ -8,7 +8,7 @@ spring:
 spring:
   profiles: dev # 开发环境
   application:
-    name: spcl-product-config-dev666
+    name: spcl-product-config-dev555
 ---
 server:
   port: 4002 #端口号
